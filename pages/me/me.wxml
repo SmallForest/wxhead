@@ -1,0 +1,6 @@
+<view class="me" hover-class="mebtn" hover-stay-time="100">
+    <view bindtap="jump" class="font"> 联系我们<image src="/images/icon/right.png" class="dui"></image></view>
+</view>
+
+
+<!-- <view>{{avatar}}</view> -->

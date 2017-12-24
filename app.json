@@ -1,0 +1,33 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/me/me",
+    "pages/us/us"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "color": "#888",
+    "selectedColor": "#42C541",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "圣诞帽",
+        "iconPath": "images/icon/11.png",
+        "selectedIconPath": "images/icon/a.png"
+      },
+      {
+        "pagePath": "pages/us/us",
+        "text": "关于我",
+        "iconPath": "images/icon/33.png",
+        "selectedIconPath": "images/icon/c.png"
+      }
+    ]
+  }
+}

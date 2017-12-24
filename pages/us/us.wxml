@@ -1,0 +1,21 @@
+<view class="container">
+    <image src="/images/icon/icon_component_HL.png" class="img"></image>
+    <text class="txt">送你圣诞帽</text>
+</view>
+
+<image src="/images/icon/line.png" class="line"></image>
+
+<view class="area">
+    <view class="a">送你圣诞帽的创作者是</view>
+    <view class="a">yangsen</view>
+    <view class="a">如果你喜欢我们的作品</view>
+    <view class="a">欢迎联系我们</view>
+</view>
+
+<view bindlongtap="cut">
+    <image src="/images/icon/wechat.png" class="img1"></image>
+    <text class="txt1">长按识别二维码，加我微信</text>
+</view>
+<image src='/images/icon/icon_component_HL.png' class='tal'></image>
+
+
